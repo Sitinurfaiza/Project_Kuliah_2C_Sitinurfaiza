@@ -1,0 +1,12 @@
+.bg-primary{
+    background-color: #000364 !important;
+}
+.bg-body-tertiary{
+    background-color: 	#D3D3D3 !important;
+}
+.nav-link.active{
+    background-color: #000364  !important;
+}
+.nav-scroller .nav{
+    background-color: #000364  !important;
+}
