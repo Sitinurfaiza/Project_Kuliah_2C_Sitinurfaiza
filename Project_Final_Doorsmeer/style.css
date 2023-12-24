@@ -1,0 +1,15 @@
+.bg-danger{
+    background-color: #0275d8 !important;
+}
+.bg-body-tertiary{
+    background-color: 	#D3D3D3 !important;
+}
+.nav-link.active{
+    background-color: #0275d8  !important;
+}
+.nav-scroller .nav{
+    background-color: #ffffff  !important;
+}
+.bg-light{
+    background-color: #ffffff  !important;
+}
